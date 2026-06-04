@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
   - name: Feature Request 💡
-    url: https://onekey.so/discussions/new?category=ideas
+    url: https://unionkey.io/discussions/new?category=ideas
     about: If you have a feature request, please create a new discussion on GitHub.
   - name: Discussions on GitHub 💬
-    url: https://onekey.so/discussions
+    url: https://unionkey.io/discussions
     about: If this library works as promised but you need help, please ask questions there.
