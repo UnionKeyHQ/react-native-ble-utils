@@ -1,4 +1,4 @@
-package so.onekey.lib.ble.utils
+package io.unionkey.lib.ble.utils
 
 import com.facebook.react.ReactPackage
 import com.facebook.react.bridge.NativeModule

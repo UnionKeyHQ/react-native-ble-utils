@@ -1,5 +1,5 @@
 {
-  "name": "@unionkeyfe/react-native-ble-utils",
+  "name": "@unionkeyhq/react-native-ble-utils",
   "version": "0.1.4",
   "description": "ble uilts",
   "source": "./src/index.tsx",

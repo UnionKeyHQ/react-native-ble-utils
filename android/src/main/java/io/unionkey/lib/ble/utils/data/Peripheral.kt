@@ -1,4 +1,4 @@
-package so.onekey.lib.ble.utils.data
+package io.unionkey.lib.ble.utils.data
 
 import android.annotation.SuppressLint
 import android.bluetooth.BluetoothDevice
